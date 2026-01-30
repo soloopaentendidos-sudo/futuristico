@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Producto demo",
+    "price": 1000,
+    "stock": 10,
+    "category": "general"
+  }
+]
