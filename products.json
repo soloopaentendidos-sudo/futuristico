@@ -1,8 +1,4 @@
 [
-  {
-    "name": "Producto demo",
-    "price": 1000,
-    "stock": 10,
-    "category": "general"
-  }
+{"name":"Smartwatch","price":30000,"stock":10,"category":"Relojes"},
+{"name":"Auriculares","price":15000,"stock":20,"category":"Audio"}
 ]
